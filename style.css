@@ -1,0 +1,36 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+.head{
+    color: teal;
+    text-align: center;
+    background-color: azure;
+}
+#para{
+    text-align: center;
+    color:hsl(0, 100%, 25%) ;
+    background-color: antiquewhite;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pre{
+    color: steelblue;
+    background-color: aliceblue;
+    text-align: justify;
+    font-size: large;
+}
+#hyperlink{
+    margin: auto;
+  font-size: larger;
+    background-color: aliceblue;
+    
+}
+#text{
+    background-color: rgb(255, 255, 255);
+    color: crimson;
+}
+form{
+    text-align: center;
+  
+}
